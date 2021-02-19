@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.icon {
+    font-size: 55px;
+    color: rgb(0, 174, 255);
+}
+
+.head {
+    font-family: Roboto;
+    font-size: 20px;
+    color: rgb(0, 174, 255)
+}
+
+.box2 {
+    border: 2px solid black;
+}
+
+.tweet {
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.hashtag {
+    font-style: italic;
+    color: rgb(0, 174, 255)
+}
