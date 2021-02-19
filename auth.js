@@ -1,7 +1,7 @@
 let userData = {
-    name: 'praneeth',
+    name: 'Siva Rama Krishna',
     number: '9959732632',
-    email: 'praneeth@gmail.com',
+    email: 'srk01022000@gmail.com',
     password: '12345678',
     id: 1
 };
